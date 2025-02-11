@@ -10,11 +10,21 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npm install
    ```
 
-2. Start the app
+2. Add .env file
+   EXPO_PUBLIC_GEMINI_API_KEY=
+
+   keep your gemini api key above...
+   you can get your key from  https://aistudio.google.com/
+   after succesfull signin go to console and there is a button GET API KEY and then you will get your key
+
+3. Start the app
 
    ```bash
     npx expo start
    ```
+
+
+
 
 In the output, you'll find options to open the app in a
 
